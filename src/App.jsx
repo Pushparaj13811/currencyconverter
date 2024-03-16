@@ -11,10 +11,7 @@ function App() {
 
   const options = Object.keys(currencyInfo)
 
-  const currencyData = {
-
-  }
-  console.log(currencyData)
+  const currencyData = {}
 
   for (const [key, value] of Object.entries(currencyInfo)) {
     if (key === 'usd' || key === 'inr' || key === 'eur' || key === 'cad') {
