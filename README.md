@@ -14,13 +14,13 @@ Welcome to React Currency Converter! This project is a lightweight yet powerful 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Install dependencies using npm or yarn.
-3. Run the application using `npm start` or `yarn start`.
+2. Install dependencies using npm.
+3. Run the application using `npm start`.
 4. Access the currency converter in your web browser and start converting currencies hassle-free!
 
 ## Hosted Version
 
-You can access the hosted version of the React Currency Converter on Netlify: [React Currency Converter](https://your-netlify-link-here)
+You can access the hosted version of the React Currency Converter on Netlify: [React Currency Converter](https://currencyconverterbypuchparaj.netlify.app/)
 
 ## Contribution
 
