@@ -31,7 +31,7 @@ function App() {
     setConvertedAmount(amount * currencyInfo[to])
   }
 
-  const BackgroundImage = "https://images.pexels.com/photos/1438863/pexels-photo-1438863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  const BackgroundImage = "https://images.pexels.com/photos/8292102/pexels-photo-8292102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   return (
     <div
       className="w-full lg:h-screen flex flex-wrap lg: bg-cover bg-no-repeat"
