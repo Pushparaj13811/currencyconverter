@@ -20,7 +20,7 @@ Welcome to React Currency Converter! This project is a lightweight yet powerful 
 
 ## Hosted Version
 
-You can access the hosted version of the React Currency Converter on Netlify: [React Currency Converter](https://currencyconverterbypuchparaj.netlify.app/)
+You can access the hosted version of the React Currency Converter on Netlify: [React Currency Converter](https://currencyconverterbypushparaj.netlify.app/)
 
 ## Contribution
 
